@@ -1,9 +1,9 @@
 Package: com.shepgoba.atkeyboard
 Name: AtKeyboard
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 1.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Use email keyboard type everywhere (@ symbol)
 Maintainer: shepgoba
 Author: shepgoba
 Section: Tweaks
